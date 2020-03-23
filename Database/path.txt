@@ -1,0 +1,20 @@
+
+--->Right click on my computer->Advanced->Environment Variables->system variables->click it new and add the varible name,values.... 
+
+variable name   - path
+variable value  - D:\j2sdk1.4.2_04\bin;
+                  D:\oracle\ora92\bin
+
+
+variable name  - classpath
+variable value - D:\j2sdk1.4.2_04\jre\lib\rt.jar;
+                 D:\j2sdk1.4.2_04\lib\tools.jar;
+                 D:\Tomcat 5.0\common\lib\servlet-api.jar;
+
+
+variable name  -JAVA_HOME
+variable value - D:\j2sdk1.4.2_04
+
+
+variable name  - CATALINA_HOME
+varrable value - D:\Tomcat 5.0

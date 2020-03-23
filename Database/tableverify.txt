@@ -1,0 +1,53 @@
+
+C:\>imp
+
+Import: Release 9.2.0.1.0 - Production on Wed Mar 5 15:25:19 2008
+
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Username: grandtour
+Password:grandtour
+
+Connected to: Oracle9i Enterprise Edition Release 9.2.0.1.0 - Production
+With the Partitioning, OLAP and Oracle Data Mining options
+JServer Release 9.2.0.1.0 - Production
+
+Import file: EXPDAT.DMP > D:\Tomcat 5.5\webapps\Voyage Management System_new\Database\voyage.dmp
+
+Enter insert buffer size (minimum is 8192) 30720> enter
+
+Export file created by EXPORT:V09.02.00 via conventional path
+
+Warning: the objects were exported by GRANDTOUR, not by you
+
+import done in WE8MSWIN1252 character set and AL16UTF16 NCHAR character set
+List contents of import file only (yes/no): no > enter
+
+Ignore create error due to object existence (yes/no): no > enter
+
+Import grants (yes/no): yes > enter
+
+Import table data (yes/no): yes > enter
+
+Import entire export file (yes/no): no > y
+
+. importing GRANDTOUR's objects into SK
+. . importing table                   "CARBOOKING"          1 rows imported
+. . importing table                "CRUISEBOOKING"          0 rows imported
+. . importing table                     "CUSTOMER"          1 rows imported
+. . importing table                "FLIGHTBOOKING"          0 rows imported
+. . importing table                 "HOTELBOOKING"          0 rows imported
+. . importing table                    "INSURANCE"          0 rows imported
+. . importing table                      "PACKAGE"          0 rows imported
+. . importing table                       "TABLE1"          0 rows imported
+. . importing table                 "TRAINBOOKING"          0 rows imported
+. . importing table                     "USERINFO"          1 rows imported
+Import terminated successfully without warnings.
+
+C:\>y
+
+
+
+
+
